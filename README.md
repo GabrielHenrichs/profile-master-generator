@@ -1,10 +1,15 @@
 # profile-master-generator
 
 > Aplicação que cria uma moldura da GDG Juiz de Fora para imagens de profiles.
+
 > Disponível tanto online, quanto para ser incorporada em outros projetos.
+
 > Este é um projeto desenvolvido para um processo de seleção da App Masters.
+
 > ProfileMaster: https://profile-master-generator.vercel.app/
+
 > GDG Juiz de Fora: https://gdgjf.github.io/
+
 > App Masters: https://appmasters.io/
 
 ## Install

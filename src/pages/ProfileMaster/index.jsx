@@ -11,8 +11,8 @@ import html2canvas from 'html2canvas'
 import Button from '../../components/Button'
 
 firebase.initializeApp({
-  apiKey: 'AIzaSyDflrkP2uTFEkOtT_KDRcDPgjjDvFd9MQE',
-  authDomain: 'profilemaster-b369d.firebaseapp.com'
+  apiKey: process.env.REACT_APP_FIREBASE_APIKEY,
+  authDomain: process.env.REACT_APP_FIREBASE_AUTHDOMAIN
 })
 
 class ProfileMaster extends Component {
